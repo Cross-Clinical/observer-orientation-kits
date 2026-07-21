@@ -5,7 +5,7 @@
 
 Versioned **Markdown orientation packs** for clinical observers / shadowing students (no PHI, no scheduling).
 
-Part of [Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · [ProMedNet](https://crossclinical.com)
+Part of [Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · [ProMedNet](https://crossclinical.com)
 
 > See [DISCLAIMER.md](DISCLAIMER.md). Templates are educational starting points — your hospital/school policies control.
 
