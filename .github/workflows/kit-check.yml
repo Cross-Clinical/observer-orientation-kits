@@ -1,0 +1,19 @@
+name: Kit check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  kits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Verify kit files
+        run: node scripts/check-kits.js

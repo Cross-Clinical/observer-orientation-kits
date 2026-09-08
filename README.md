@@ -26,3 +26,5 @@ Live scheduling, credentialing software, EHR access, or legal advice.
 ## Contributing
 
 `git commit -s` (DCO). Keep content PHI-free and policy-agnostic.
+
+See the org-wide guide: [CONTRIBUTING.md](https://github.com/Cross-Clinical/suite-index/blob/main/CONTRIBUTING.md)
